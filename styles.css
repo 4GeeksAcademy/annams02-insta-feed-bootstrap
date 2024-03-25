@@ -1,0 +1,12 @@
+.col1{
+    justify-content: flex-end;
+}
+.card-body {
+    padding: 8px;
+}
+.card-header {
+    background-color: white;
+}
+.container {
+
+}
